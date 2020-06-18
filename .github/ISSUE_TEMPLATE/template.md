@@ -4,7 +4,6 @@ about: Need to organize and write documents for functions and precautions
 title: "[DOC] XXX Requirements document
 labels: documentation
 assignees: ''
-
 ---
 
 :warning: **Attention**:warning:
