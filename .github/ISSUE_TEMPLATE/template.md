@@ -1,7 +1,7 @@
 ---
 name: Requirements document
 about: Need to organize and write documents for functions and precautions
-title: "[DOC] XXX Requirements document
+title: "[DOC] XXX Requirements document"
 labels: documentation
 assignees: ''
 ---
