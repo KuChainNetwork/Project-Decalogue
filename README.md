@@ -2,7 +2,7 @@
 Collecting general advices to improve KuChain
 
 ---
-### Announcement: [here](https://github.com/KuChainNetwork/Project-Decalogue/blob/master/announcement/announcement001.md);
+### Announcement: [here](https://github.com/KuChainNetwork/Project-Decalogue/blob/master/announcement/announcement002.md);
 
 
 ---
