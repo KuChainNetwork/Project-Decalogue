@@ -26,7 +26,7 @@ Proposals submitted before UTC+8 2020.07.01 10:00am and after UTC+8 2020.07.31 1
 
 #### KuChain Resources
 
-:information_source:KuChain White Paper (to be released by phases) ：coming soon.
+:information_source:Draft White Paper (to be released by phases) ：[here](https://github.com/KuChainNetwork/docs/blob/master/whitepaper/en/kratos.md)
 
 
 
