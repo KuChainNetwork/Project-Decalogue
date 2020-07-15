@@ -2,11 +2,11 @@
 Collecting general advices to improve KuChain
 
 ---
-### Announcement: [here](https://github.com/KuChainNetwork/Project-Decalogue/blob/master/announcement/announcement002.md);
+### Announcement: [here](https://github.com/KuChainNetwork/Project-Decalogue/blob/master/announcement/announcement003.md);
 
 
 ---
-![kuChainDecalogue](https://github.com/KuChainNetwork/Project-Decalogue/blob/master/imgs/kuChainDecalogue.jpg?raw=true)
+![kuChainDecalogue](https://github.com/KuChainNetwork/Project-Deluge/blob/master/imgs/KuChainBetanetCoverOther.jpg?raw=true)
 
 ### KuChain Betanet Proposal Award Program Rule 
 
@@ -14,9 +14,9 @@ This brief describes the rules of KuChain Betanet Proposal Award Program and the
 
 
 
-:point_right: Program duration: ***UTC+8 2020.07.01 10:00am - 2020.07.31 10:00am***. 
+:point_right: Program duration: ***UTC+8 2020.07.01 10:00am - 2020.08.07 10:00am***. 
 
-Proposals submitted before UTC+8 2020.07.01 10:00am and after UTC+8 2020.07.31 10:00am will be considered invalid. 
+Proposals submitted before UTC+8 2020.07.01 10:00am and after UTC+8 2020.08.07 10:00am will be considered invalid. 
 
 :point_right: *Please strictly follow the template format when you submit the proposal. Your proposal must be related to KuChain fundamental technology or decentralized financial business. Please note that one account can only publish one proposal, otherwise all of your proposals will be considered invalid.*
 
