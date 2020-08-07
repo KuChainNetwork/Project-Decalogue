@@ -51,5 +51,5 @@ Each winner has one appeal opportunity in case of any objection concerning the r
 | NO.7  | $728    | #14       | 7     | 88vgk88@gmail.com          |                |
 | NO.8  | $546    | #4        | 6     | iadpay@gmail.com           |                |
 | NO.9  | $364    | #5        | 5     | iadpay@outlook.com         |                |
-| NO.10 | $182    | #9        | 4     | https://discord.gg/CgykhNM |                |
+| NO.10 | $182    | #9        | 4     | https://discord.gg/CgykhNM | 0xaf972929c8D468fE1169E6f67a8b39d4347d6Ea2 |
 
