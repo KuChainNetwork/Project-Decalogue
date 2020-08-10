@@ -49,7 +49,7 @@ Each winner has one appeal opportunity in case of any objection concerning the r
 | NO.5  | $1092   | #12       | 12    | ylic@263.net               |                |
 | NO.6  | $910    | #11       | 9     | yuanjun@bitopia.cn         |                |
 | NO.7  | $728    | #14       | 7     | 88vgk88@gmail.com          |                |
-| NO.8  | $546    | #4        | 6     | iadpay@gmail.com           |                |
+| NO.8  | $546    | #4        | 6     | iadpay@gmail.com           | 0x0A8bB6fBD7da8EF2bB3AD7c9edDcF221899fee2b |
 | NO.9  | $364    | #5        | 5     | iadpay@outlook.com         |                |
 | NO.10 | $182    | #9        | 4     | https://discord.gg/CgykhNM | 0xaf972929c8D468fE1169E6f67a8b39d4347d6Ea2 |
 
