@@ -48,7 +48,7 @@ Each winner has one appeal opportunity in case of any objection concerning the r
 | NO.4  | $1274   | #10       | 13    | cryptodeepvalley@gmail.com | 0xCea5E66bec5193e5eC0b049a3Fe5d7Dd896fD480 |
 | NO.5  | $1092   | #12       | 12    | ylic@263.net               |                |
 | NO.6  | $910    | #11       | 9     | yuanjun@bitopia.cn         |                |
-| NO.7  | $728    | #14       | 7     | 88vgk88@gmail.com          |                |
+| NO.7  | $728    | #14       | 7     | 88vgk88@gmail.com          |  0xcf536828eb355c3cbc5e16703eb36270b661fc46  |
 | NO.8  | $546    | #4        | 6     | iadpay@gmail.com           |  0x0A8bB6fBD7da8EF2bB3AD7c9edDcF221899fee2b  |
 | NO.9  | $364    | #5        | 5     | iadpay@outlook.com         |  0x286E6a0E9f38bA368e6DBCBC4bBf5c3A6664f0ED |
 | NO.10 | $182    | #9        | 4     | https://discord.gg/CgykhNM |  0xaf972929c8D468fE1169E6f67a8b39d4347d6Ea2 |
