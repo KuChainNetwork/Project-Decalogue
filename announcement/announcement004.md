@@ -42,11 +42,11 @@ Each winner has one appeal opportunity in case of any objection concerning the r
 
 | Rank  | Rewards | Numbering | Votes | Contact information        | ERC-20 Address |
 | ----- | ------- | --------- | ----- | -------------------------- | -------------- |
-| NO.1  | $1820   | #2        | 18    | April_FY@outlook.com       |                |
-| NO.2  | $1638   | #3        | 16    | Popeye-July@outlook.com    |                |
-| NO.3  | $1456   | #16       | 14    | jessblocking@outlook.com   |                |
+| NO.1  | $1820   | #2        | 18    | April_FY@outlook.com       | 0xA5eB0780b551Ff241513fBC592A8E6F79DEbC7b6               |
+| NO.2  | $1638   | #3        | 16    | Popeye-July@outlook.com    | 0x4C58cA41198B50c4a560e0A04F8020c74619F242               |
+| NO.3  | $1456   | #16       | 14    | jessblocking@outlook.com   | 0x5e632a8929A62B182364b11A9E59Aa106729f4f0               |
 | NO.4  | $1274   | #10       | 13    | cryptodeepvalley@gmail.com | 0xCea5E66bec5193e5eC0b049a3Fe5d7Dd896fD480 |
-| NO.5  | $1092   | #12       | 12    | ylic@263.net               |                |
+| NO.5  | $1092   | #12       | 12    | ylic@263.net               | 0xa01c5a59b063b6037a90e99ffcd922142de9a5f8               |
 | NO.6  | $910    | #11       | 9     | yuanjun@bitopia.cn         |  0xE533611C8cf37A8eF5BA1d329f58EdB5228c9017 |
 | NO.7  | $728    | #14       | 7     | 88vgk88@gmail.com          |  0xcf536828eb355c3cbc5e16703eb36270b661fc46  |
 | NO.8  | $546    | #4        | 6     | iadpay@gmail.com           |  0x0A8bB6fBD7da8EF2bB3AD7c9edDcF221899fee2b  |
