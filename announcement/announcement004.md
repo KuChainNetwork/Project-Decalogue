@@ -47,7 +47,7 @@ Each winner has one appeal opportunity in case of any objection concerning the r
 | NO.3  | $1456   | #16       | 14    | jessblocking@outlook.com   |                |
 | NO.4  | $1274   | #10       | 13    | cryptodeepvalley@gmail.com | 0xCea5E66bec5193e5eC0b049a3Fe5d7Dd896fD480 |
 | NO.5  | $1092   | #12       | 12    | ylic@263.net               |                |
-| NO.6  | $910    | #11       | 9     | yuanjun@bitopia.cn         |                |
+| NO.6  | $910    | #11       | 9     | yuanjun@bitopia.cn         |  0xE533611C8cf37A8eF5BA1d329f58EdB5228c9017 |
 | NO.7  | $728    | #14       | 7     | 88vgk88@gmail.com          |  0xcf536828eb355c3cbc5e16703eb36270b661fc46  |
 | NO.8  | $546    | #4        | 6     | iadpay@gmail.com           |  0x0A8bB6fBD7da8EF2bB3AD7c9edDcF221899fee2b  |
 | NO.9  | $364    | #5        | 5     | iadpay@outlook.com         |  0x286E6a0E9f38bA368e6DBCBC4bBf5c3A6664f0ED |
